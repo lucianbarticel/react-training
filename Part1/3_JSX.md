@@ -6,6 +6,7 @@
 #### Why JSX?
 
 NO: separating technologies (markup & logic)
+
 YES: separating concerns (components)
 
 __!__ React doesn’t require using JSX
@@ -42,7 +43,7 @@ function getGreeting(user) {
 
 The first part of a JSX tag determines the type of the React element.
 
-__!__ letter case = build in components (`<div>`, `<span>`);
+__!__ lower case = build in components (`<div>`, `<span>`);
 
 __!__ `<Foo />` must be capitalized and in scope.
 
@@ -76,7 +77,7 @@ or
 ```
 const element = <img src={user.avatarUrl}></img>;
 ```
-__!__ not:
+not:
 ```
 const element = <img src="{user.avatarUrl}"></img>;
 ```
@@ -140,5 +141,7 @@ __React reads these objects and uses them to construct the DOM and keep it up to
 
 ---
 [resource 1](https://reactjs.org/docs/introducing-jsx.html)
+
 [resource 2](https://reactjs.org/docs/jsx-in-depth.html)
+
 [resource 3](https://jaxenter.com/introduction-react-147054.html)
