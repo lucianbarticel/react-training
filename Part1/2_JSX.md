@@ -1,5 +1,4 @@
 # JSX
----
 
 > __The major benefit of using JSX is that you’re only interacting with JavaScript object, not template strings.__
 

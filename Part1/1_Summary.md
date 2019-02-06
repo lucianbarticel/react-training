@@ -1,5 +1,5 @@
 # Summary
----
+
 1.  Introduction to components
 2.  JSX
 3.  Virtual DOM
