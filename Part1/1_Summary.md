@@ -8,3 +8,5 @@
 
 ---
 [cheatsheet](http://jamesknelson.com/react-cheatsheet.pdf)
+
+[another cheatsheet](https://devhints.io/react)
