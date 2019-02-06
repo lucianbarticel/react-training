@@ -1,4 +1,4 @@
-# Introduction to components
+# Components and props
 ---
 https://dev.to/sarah_chima/an-introduction-to-react-components-cke
 
