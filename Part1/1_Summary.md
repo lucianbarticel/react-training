@@ -1,10 +1,9 @@
 # Summary
 
-1.  Introduction to components
-2.  JSX
-3.  Virtual DOM
-4.  Props and state
-5.  Lifecycle
+1.  JSX
+2.  Rendering and Virtual DOM
+3.  Components and Props
+4.  State and Lifecycle
 
 ---
 [cheatsheet](http://jamesknelson.com/react-cheatsheet.pdf)
